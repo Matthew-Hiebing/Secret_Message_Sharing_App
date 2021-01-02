@@ -1,7 +1,9 @@
-# Secret_Message_Sharing_App
+# Secret Message Sharing App
 Want to send secret messages to your friend?  Use this app!
 
-## App Link
+## Usage and App Link
+The below link starts the app.  Type in a secreate message, hit "create", and send the link to a friend.  Once they receive the link and past it in their browser they will see the secret message.
+
 [Click Here](https://secret-message-sharing-app.matthew-hiebing.vercel.app/) to use the app with friends!
 
 ## Installation
