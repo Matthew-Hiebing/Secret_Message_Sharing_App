@@ -12,7 +12,7 @@ npx install vercel # Vercel hosts the app for public use.  Provide your email an
 
 ```
 ## Questions?
-Send me a message on GitHub ([Matthew-Hiebing](https://github.com/Matthew-Hiebing) or E-mail me at: Matthew.Hiebing@gmail.com.
+Send me a message on GitHub. [Matthew-Hiebing](https://github.com/Matthew-Hiebing) or E-mail me at: Matthew.Hiebing@gmail.com.
 
 ## License
 Copyright 2021
